@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# yt-dlp scratch files. update.py writes data/_tmp.info.json and removes it,
+# but an interrupted run can leave one behind.
+data/_tmp*
+*.info.json
+*.part
+*.ytdl
+
+# Raw media / bulk comment dumps -- never commit these. The whole design is
+# that only DERIVED counts live in data/, so the repo stays small.
+*.webm
+*.mp4
+*.mkv
+*.m4a
+comments.json
+
+# Secrets. Cookies grant account access; they belong in the YT_COOKIES repo
+# secret, never in the tree.
+cookies.txt
+*.cookies
+.env
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# NOTE: data/ is deliberately NOT ignored. These files are the project's state
+# and the workflow commits them each run:
+#   data/guessed.json      word -> submission count
+#   data/seen_ids.txt.gz   dedupe across runs
+#   data/meta.json         coverage stats
+#   data/candidates.tsv    generated ranked list
+#   data/cmudict.dict      syllable source (3.5MB, required at runtime)
+#   data/wordnet_p.tsv     proper-noun / POS signal
+# WINNER.md is also intentionally tracked -- it is the payload.
