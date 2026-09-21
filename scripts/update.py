@@ -30,24 +30,49 @@ VIDEO = os.environ.get("VIDEO_URL", "https://www.youtube.com/watch?v=4TQ01xXbRWA
 SECRET = os.environ.get("SECRET_URL", "https://www.youtube.com/watch?v=E0UO6lLU23Q")
 
 
+# yt-dlp resolves the player before it will hand over comments, and some
+# clients fail that step with "The page needs to be reloaded" -- which kills the
+# whole extraction even though comments live in ytInitialData, not the player.
+# Which clients work varies by IP and by YouTube-side changes, so try several.
+# Verified working: mweb, android, default. Verified failing: tv, web_safari, ios.
+PLAYER_CLIENTS = os.environ.get("PLAYER_CLIENTS", "mweb,android,default").split(",")
+
+
 def run_ytdlp(url, max_comments, sort="new", replies=0):
-    """Return the comments list, or None if extraction failed."""
+    """Return the comments list, or None if every player client failed."""
     out = os.path.join(DATA, "_tmp")
-    ea = f"youtube:comment_sort={sort};max_comments={max_comments},all,all,{replies}"
-    cmd = ["yt-dlp", "--skip-download", "--write-comments",
-           "--extractor-args", ea, "--no-warnings", "-o", out, url]
-    cookies = os.environ.get("YT_COOKIES_FILE")
-    if cookies and os.path.exists(cookies):
-        cmd[1:1] = ["--cookies", cookies]
-    proc = subprocess.run(cmd, capture_output=True, text=True)
     raw = out + ".info.json"
-    if not os.path.exists(raw):
-        sys.stderr.write(proc.stdout[-2000:] + proc.stderr[-2000:])
-        return None
-    with open(raw, encoding="utf-8") as fh:
-        meta = json.load(fh)
-    os.remove(raw)
-    return meta.get("comments") or []
+    last = ""
+    for client in PLAYER_CLIENTS:
+        client = client.strip()
+        if not client:
+            continue
+        if os.path.exists(raw):
+            os.remove(raw)
+        ea = (f"youtube:player_client={client};comment_sort={sort};"
+              f"max_comments={max_comments},all,all,{replies}")
+        cmd = ["yt-dlp", "--skip-download", "--write-comments",
+               "--extractor-args", ea, "--no-warnings",
+               "--extractor-retries", "5", "--sleep-requests", "0.5",
+               "-o", out, url]
+        cookies = os.environ.get("YT_COOKIES_FILE")
+        if cookies and os.path.exists(cookies):
+            cmd[1:1] = ["--cookies", cookies]
+        proc = subprocess.run(cmd, capture_output=True, text=True)
+        if os.path.exists(raw):
+            with open(raw, encoding="utf-8") as fh:
+                meta = json.load(fh)
+            os.remove(raw)
+            comments = meta.get("comments") or []
+            if comments:
+                if client != PLAYER_CLIENTS[0]:
+                    print(f"  (fell back to player_client={client})")
+                return comments
+        last = (proc.stdout[-800:] + proc.stderr[-800:]).strip()
+        print(f"  player_client={client} failed, trying next")
+    if last:
+        sys.stderr.write(last + "\n")
+    return None
 
 
 def load_seen():
