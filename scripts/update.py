@@ -111,9 +111,18 @@ def main():
     # 2. Deep-ish pull on the newest comments to grow coverage.
     fresh = run_ytdlp(VIDEO, budget, sort="new")
     if fresh is None:
-        print("error: comment fetch failed (YouTube may be blocking this IP)")
-        # Still succeed if the winner check worked, so cron keeps running.
-        return 0 if found else 1
+        # Expected on GitHub-hosted runners: YouTube blocks datacenter IPs.
+        # That is a tick with no new data, not a failure -- exit 0 so the run
+        # stays green and the schedule keeps firing.
+        print("::notice::comment fetch blocked this tick "
+              "(YouTube rate-limits datacenter IPs); no new data")
+        summary = os.environ.get("GITHUB_STEP_SUMMARY")
+        if summary:
+            with open(summary, "a", encoding="utf-8") as fh:
+                fh.write("### Poll skipped\n\nYouTube blocked this runner's IP. "
+                         "The winner check still ran. See the README for the "
+                         "cookies / self-hosted / local options.\n")
+        return 0
 
     if check_winner(fresh, "main Short"):
         found = True
