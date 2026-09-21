@@ -86,10 +86,38 @@ EOF
 launchctl load ~/Library/LaunchAgents/com.user.gtcwatch.plist
 ```
 
-**2. Add cookies.** Export cookies for youtube.com in Netscape format and store the
-file's contents as the repo secret `YT_COOKIES`. The workflow picks it up
-automatically. Use a throwaway Google account — these cookies grant account access,
-and they expire, so this needs occasional refreshing.
+**2. Add cookies.** An authenticated session often gets past the datacenter-IP block.
+
+> **Use a throwaway Google account.** These cookies grant full access to whatever
+> account exports them, and presenting them from a datacenter IP is exactly the
+> pattern that gets an account flagged or locked. Never use your real account.
+
+Sign the burner into YouTube in its own browser profile, then export:
+
+```bash
+yt-dlp --cookies-from-browser "chrome:Profile 2" \
+       --cookies cookies.txt --skip-download --no-warnings \
+       "https://www.youtube.com/watch?v=4TQ01xXbRWA"
+
+gh secret set YT_COOKIES < cookies.txt
+rm cookies.txt
+```
+
+`--cookies-from-browser` accepts `safari`, `firefox`, `brave`, `edge`, `chromium`,
+`opera`, `vivaldi`, `whale` too; drop the `:Profile 2` suffix if the burner is signed
+into the default profile. macOS will prompt for Keychain access to decrypt Chromium
+cookies. `cookies.txt` is gitignored, but delete it anyway.
+
+The workflow reads `YT_COOKIES` automatically — no further changes needed.
+
+Caveats worth knowing before relying on this:
+
+- Cookies expire and YouTube rotates them; expect to re-export every few weeks.
+- YouTube may invalidate a session used from an IP far from where it was issued, so
+  this can stop working without warning.
+- It does not always defeat the block — datacenter IPs are filtered partly regardless
+  of auth.
+- Secrets are not exposed to fork PRs, but a private repo is still the safer home.
 
 **3. Self-hosted runner** on a machine with a residential IP.
 
