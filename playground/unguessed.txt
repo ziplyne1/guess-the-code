@@ -1,0 +1,279 @@
+word           len syl  solo  seen  definition
+----------------------------------------------
+padua            5   3     0     0  (noun) a city in Veneto
+paducah          7   3     0     0  (noun) a town in western Kentucky on the Ohio River
+paget            5   2     0     0  (noun) English pathologist who discovered the cause of trichinosis (1814-1899)
+paine            5   1     0     0  (noun) American Revolutionary leader and pamphleteer (born in England) who supported the Americ
+panty            5   2     0     0  (noun) short underpants for women or children (usually used in the plural)
+paperboy         8   3     0     1  (noun) a boy who sells or delivers newspapers
+papering         8   3     0     0  (noun) the application of wallpaper
+papua            5   3     0     0  (noun) the southeastern part of Papua New Guinea
+para             4   2     0     1  (noun) port city in northern Brazil in the Amazon delta
+parana           6   3     0     0  (noun) a South American river
+parceling        9   2     0     0  (noun) the act of distributing by allotting or apportioning
+parfait          7   2     0     0  (noun) layers of ice cream and syrup and whipped cream
+paring           6   2     0     0  (noun) (usually plural) a part of a fruit or vegetable that is pared or cut off
+parisian         8   3     0     0  (noun) a native or resident of Paris
+parkinson        9   3     0     0  (noun) British historian noted for ridicule of bureaucracies (1909-1993)
+parlay           6   2     0     0  (noun) a series of wagers in which the winnings from one wager are used as a stake for the subs
+parlour          7   2     0     1  (noun) a room in a private house or establishment where people can sit and talk and relax
+parnassus        9   3     0     0  (noun) (Greek mythology) a mountain in central Greece where (according to Greek mythology) the 
+parnell          7   2     0     0  (noun) Irish nationalist leader (1846-1891)
+parodist         8   3     0     0  (noun) mimics literary or musical style for comic effect
+parolee          7   3     0     0  (noun) someone released on probation or on parole
+parrish          7   2     0     0  (noun) United States painter (1870-1966)
+parsons          7   2     0     1  (noun) United States sociologist (1902-1979)
+parthenon        9   3     0     0  (noun) the main temple of the goddess Athena
+parthian         8   3     0     0  (noun) the Iranian language spoken in the Parthian kingdom (250 BC to AD 226)
+pasch            5   1     0     0  (noun) the Christian festival of Easter
+passbook         8   2     0     0  (noun) a record of deposits and withdrawals and interest held by depositors at certain banks
+passero          7   3     0     0  (noun) a naval battle in the Mediterranean Sea off Cape Passero in which the Spanish navy was d
+paster           6   2     0     0  (noun) an adhesive label
+pasternak        9   3     0     0  (noun) Russian writer whose best known novel was banned by Soviet authorities but translated an
+pasteur          7   2     0     0  (noun) French chemist and biologist whose discovery that fermentation is caused by microorganis
+paterson         8   3     0     0  (noun) a city of northeastern New Jersey
+pathan           6   2     0     0  (noun) an ethnic minority speaking Pashto and living in northwestern Pakistan and southeastern 
+paton            5   2     0     0  (noun) South African writer (1903-1988)
+patrolman        9   3     0     0  (noun) a policeman who patrols a given region
+patroness        9   3     0     0  (noun) a woman who is a patron or the wife of a patron
+patzer           6   2     0     0  (noun) a poor chess player
+pauli            5   2     0     0  (noun) United States physicist (born in Austria) who proposed the exclusion principle (thus pro
+pauling          7   2     0     0  (noun) United States chemist who studied the nature of chemical bonding (1901-1994)
+pauper           6   2     0     1  (noun) a person who is very poor
+paving           6   2     0     1  (noun) the act of applying paving materials to an area
+pavlov           6   2     0     0  (noun) Russian physiologist who observed conditioned salivary responses in dogs (1849-1936)
+pavo             4   2     0     0  (noun) peafowl
+pawnee           6   2     0     0  (noun) the Caddoan language spoken by the Pawnee
+paxton           6   2     0     0  (noun) English architect (1801-1865)
+payables         8   3     0     0  (noun) money that you currently expect to pay on notes and accounts
+paye             4   1     0     0  (noun) the British system of withholding tax
+payola           6   3     0     0  (noun) a bribe given to a disc jockey to induce him to promote a particular record
+peacenik         8   2     0     0  (noun) someone who prefers negotiations to armed conflict in the conduct of foreign relations
+peary            5   2     0     0  (noun) United States Arctic explorer and United States naval officer who has been regarded as t
+peavey           6   2     0     0  (noun) a stout lever with a sharp spike
+pectin           6   2     0     0  (noun) any of various water-soluble colloidal carbohydrates that occur in ripe fruit and vegeta
+peddling         8   2     0     1  (noun) the act of selling goods for a living
+peeler           6   2     0     0  (noun) a device for peeling vegetables or fruits
+pegmatite        9   3     0     0  (noun) a form of igneous rock consisting of extremely coarse granite resulting from the crystal
+pei              3   1     0     0  (noun) United States architect (born in China in 1917)
+peirce           6   1     0     0  (noun) United States philosopher and logician
+pelham           6   2     0     0  (noun) a bit with a bar mouthpiece that is designed to combine a curb and snaffle
+pellagra         8   3     0     0  (noun) a disease caused by deficiency of niacin or tryptophan (or by a defect in the metabolic 
+pelting          7   2     0     0  (noun) anything happening rapidly or in quick successive
+pembroke         8   2     0     0  (noun) the smaller and straight-legged variety of corgi having pointed ears and a short tail
+penang           6   2     0     0  (noun) the second smallest Malaysian state
+pengo            5   2     0     0  (noun) a Dravidian language spoken in south central India
+penis            5   2     0     1  (noun) the male sex organ (`member' is a euphemism)
+penobscot        9   3     0     0  (noun) a river in central Maine flowing into Penobscot Bay
+pentecost        9   3     0     0  (noun) (Judaism) Jewish holy day celebrated on the sixth of Sivan to celebrate Moses receiving 
+pentothal        9   3     0     0  (noun) barbiturate that is a hygroscopic powder (trade name Pentothal) that is a strong barbitu
+peony            5   3     0     0  (noun) any of numerous plants widely cultivated for their showy single or double red or pink or
+pepcid           6   2     0     0  (noun) a histamine blocker (trade name Pepcid) used to treat peptic ulcers and gastritis and es
+pepin            5   2     0     0  (noun) king of the Franks and father of Charlemagne who defended papal interests and founded th
+percy            5   2     0     0  (noun) English soldier killed in a rebellion against Henry IV (1364-1403)
+perfecta         8   3     0     0  (noun) a bet that you can pick the first and second finishers in the right order
+perfusion        9   3     0     0  (noun) pumping a liquid into an organ or tissue (especially by way of blood vessels)
+peristyle        9   3     0     0  (noun) a colonnade surrounding a building or enclosing a court
+perjurer         8   3     0     0  (noun) a person who deliberately gives false testimony
+perlis           6   2     0     0  (noun) the smallest Malaysian state
+pernod           6   2     0     0  (noun) (registered trademark) a liqueur flavored with anise
+peron            5   2     0     0  (noun) Argentine soldier who became president of Argentina (1895-1974)
+persia           6   2     0     0  (noun) a theocratic Islamic republic in the Middle East in western Asia
+pertussis        9   3     0     0  (noun) a disease of the respiratory mucous membrane
+perusing         8   3     0     0  (noun) reading carefully with intent to remember
+perversion      10   3     0     0  (noun) the action of perverting something (turning it to a wrong use)
+pervert          7   2     0     1  (noun) a person whose behavior deviates from what is acceptable especially in sexual behavior
+peshawar         8   3     0     0  (noun) city in northern Pakistan at the eastern end of the Khyber Pass
+petersburg      10   3     0     0  (noun) the final campaign of the American Civil War (1864-65)
+petrarca         8   3     0     0  (noun) an Italian poet famous for love lyrics (1304-1374)
+pettiness        9   3     0     0  (noun) lack of generosity in trifling matters
+petulance        9   3     0     0  (noun) an irritable petulant feeling
+phage            5   1     0     0  (noun) a virus that is parasitic (reproduces itself) in bacteria
+phagocyte        9   3     0     0  (noun) a cell that engulfs and digests debris and invading microorganisms
+pharisee         8   3     0     0  (noun) a member of an ancient Jewish sect noted for strict obedience to Jewish traditions
+pharma           6   2     0     1  (noun) a company that makes and sells pharmaceuticals
+pharynx          7   2     0     0  (noun) the passage to the stomach and lungs
+phenolic         8   3     0     0  (noun) a thermosetting resin
+philippi         8   3     0     0  (noun) Octavian and Mark Antony defeated Brutus and Cassius in 42 BC
+phlogopite      10   3     0     0  (noun) a brown form of mica consisting of hydrous silicate of potassium and magnesium and alumi
+phoebus          7   2     0     0  (noun) (Greek mythology) Greek god of light
+phoenicia        9   3     0     0  (noun) an ancient maritime country (a collection of city states) at eastern end of the Mediterr
+phoenician      10   3     0     0  (noun) the extinct language of an ancient Semitic people who dominated trade in the ancient wor
+phonics          7   2     0     0  (noun) teaching reading by training beginners to associate letters with their sound values
+phrasing         8   2     0     1  (noun) the grouping of musical phrases in a melodic line
+physicist        9   3     0     1  (noun) a scientist trained in physics
+piaget           6   3     0     0  (noun) Swiss psychologist remembered for his studies of cognitive development in children (1896
+picker           6   2     0     0  (noun) someone who gathers crops or fruits etc.
+pickett          7   2     0     0  (noun) American Confederate general known for leading a disastrous charge at Gettysburg (1825-1
+pickford         8   2     0     0  (noun) United States film actress (born in Canada) who starred in silent films (1893-1979)
+piddock          7   2     0     0  (noun) marine bivalve that bores into rock or clay or wood by means of saw-like shells
+pierre           6   2     0     0  (noun) capital of the state of South Dakota
+pietism          7   3     0     0  (noun) exaggerated or affected piety and religious zeal
+pigman           6   2     0     0  (noun) a herder or swine
+pigment          7   2     0     1  (noun) a substance used as a coating to protect or decorate a surface (especially a mixture of 
+pigmy            5   2     0     1  (noun) any member of various peoples having an average height of less than five feet
+pigsty           6   2     0     0  (noun) a pen for swine
+pilaf            5   2     0     0  (noun) rice cooked in well-seasoned broth with onions or celery and usually poultry or game or 
+pilate           6   2     0     0  (noun) the Roman procurator of Judea who ordered that Jesus be crucified (died in AD 36)
+piles            5   1     0     1  (noun) a large number or amount
+pilferage        9   3     0     0  (noun) the act of stealing small amounts or small articles
+piling           6   2     0     1  (noun) a column of wood or steel or concrete that is driven into the ground to provide support 
+piloting         8   3     0     1  (noun) the occupation of a pilot
+pilsner          7   2     0     0  (noun) a pale lager with strong flavor of hops
+pincus           6   2     0     0  (noun) United States sexual physiologist whose hunch that progesterone could block ovulation le
+pindaric         8   3     0     0  (noun) an ode form used by Pindar
+pinot            5   2     0     1  (noun) any of several purple or white wine grapes used especially for Burgundies and champagnes
+pipefish         8   2     0     0  (noun) fish with long tubular snout and slim body covered with bony plates
+piping           6   2     0     1  (noun) playing a pipe or the bagpipes
+piranha          7   3     0     0  (noun) small voraciously carnivorous freshwater fishes of South America that attack and destroy
+pisa             4   2     0     0  (noun) a city in Tuscany
+piss             4   1     0     0  (noun) informal terms for urination
+pissing          7   2     0     0  (noun) informal terms for urination
+pitt             4   1     0     0  (noun) English statesman who brought the Seven Years' War to an end (1708-1778)
+pitting          7   2     0     0  (noun) the formation of small pits in a surface as a consequence of corrosion
+pittsburgh      10   2     0     0  (noun) a city in southwestern Pennsylvania where the confluence of the Allegheny River and Mono
+pittsfield      10   2     0     0  (noun) a town in western Massachusetts
+pizarro          7   3     0     0  (noun) Spanish conquistador who conquered the Incas in what is now Peru and founded the city of
+planck           6   1     0     0  (noun) German physicist whose explanation of blackbody radiation in the context of quantized en
+plano            5   2     0     0  (noun) a city in northeastern Texas (suburb of Dallas)
+plasticine      10   3     0     0  (noun) a synthetic material resembling clay but remaining soft
+platte           6   1     0     0  (noun) a river in Nebraska that flows eastward to become a tributary of the Missouri River
+plautus          7   2     0     0  (noun) a genus of Alcidae
+pleaser          7   2     0     0  (noun) a pleasing entertainer
+pleat            5   1     0     1  (noun) any of various types of fold formed by doubling fabric back upon itself and then pressin
+pledger          7   2     0     0  (noun) someone who makes or gives a pledge
+plexiglass      10   3     0     0  (noun) a light transparent weather resistant thermoplastic
+pliny            5   2     0     0  (noun) Roman author of an encyclopedic natural history
+pliocene         8   3     0     0  (noun) from 13 million to 2 million years ago
+plodding         8   2     0     0  (noun) the act of walking with a slow heavy gait
+plosive          7   2     0     0  (noun) a consonant produced by stopping the flow of air at some point and suddenly releasing it
+plowman          7   2     0     0  (noun) a man who plows
+plunker          7   2     0     0  (noun) (baseball) hitting a baseball so that it drops suddenly
+poaching         8   2     0     1  (noun) cooking in simmering liquid
+poitier          7   2     0     0  (noun) United States film actor and director (born in 1927)
+poking           6   2     0     3  (noun) a sharp hand gesture (resembling a blow)
+polack           6   2     0     0  (noun) a person of Polish descent
+polemics         8   3     0     0  (noun) the branch of Christian theology devoted to the refutation of errors
+polio            5   3     0     1  (noun) an acute viral disease marked by inflammation of nerve cells of the brain stem and spina
+polk             4   1     0     0  (noun) 11th President of the United States
+pollux           6   2     0     0  (noun) the brightest star in Gemini
+polo             4   2     0     1  (noun) a game similar to field hockey but played on horseback using long-handled mallets and a 
+pompadour        9   3     0     0  (noun) a hair style in which the front hair is swept up from the forehead
+pompey           6   2     0     0  (noun) a port city in southern England on the English Channel
+pons             4   1     0     0  (noun) a band of nerve fibers linking the medulla oblongata and the cerebellum with the midbrai
+pontiac          7   3     0     0  (noun) famous chief of the Ottawa who led an unsuccessful rebellion against the British (1715-1
+pooch            5   1     0     1  (noun) informal terms for dogs
+poof             4   1     0     0  (noun) offensive term for a homosexual man
+pooler           6   2     0     0  (noun) someone who shares in and contributes to a general fund for use by all
+poorhouse        9   2     0     0  (noun) an establishment maintained at public expense in order to provide housing for the poor a
+poplin           6   2     0     0  (noun) a ribbed fabric used in clothing and upholstery
+popper           6   2     0     0  (noun) a container for cooking popcorn
+porch            5   1     0     2  (noun) a structure attached to the exterior of a building often forming a covered entrance
+porcupines      10   3     0     2  (noun) meat patties rolled in rice and simmered in a tomato sauce
+porker           6   2     0     0  (noun) a pig fattened to provide meat
+porn             4   1     0     1  (noun) creative activity (writing or pictures or films etc.) of no literary or artistic value o
+porno            5   2     0     1  (noun) creative activity (writing or pictures or films etc.) of no literary or artistic value o
+porta            5   2     0     0  (noun) an aperture or hole that opens into a bodily cavity
+porte            5   1     0     0  (noun) the Ottoman court in Constantinople
+porter           6   2     0     1  (noun) a very dark sweet ale brewed from roasted unmalted barley
+porto            5   2     0     0  (noun) port city in northwest Portugal
+portraying      10   3     0     1  (noun) a representation by picture or portraiture
+posing           6   2     0     1  (noun) (photography) the act of assuming a certain position (as for a photograph or portrait)
+posterior        9   3     0     1  (noun) a tooth situated at the back of the mouth
+posthole         8   2     0     0  (noun) a hole dug in the ground to hold a fence post
+postmark         8   2     0     0  (noun) a cancellation mark stamped on mail by postal officials
+postulate        9   3     0     1  (noun) (logic) a proposition that is accepted as true in order to provide a basis for logical r
+postum           6   2     0     0  (noun) trade mark for a coffee substitute invented by C. W. Post and made with chicory and roas
+potable          7   3     0     0  (noun) any liquid suitable for drinking
+potboiler        9   3     0     0  (noun) a literary composition of poor quality that was written quickly to make money (to boil t
+potemkin         8   3     0     0  (noun) a Russian officer and politician who was a favorite of Catherine II and in 1762 helped h
+potomac          7   3     0     0  (noun) term sometimes used to refer to Washington, D.C.
+potpie           6   2     0     0  (noun) deep-dish meat and vegetable pie or a meat stew with dumplings
+potsdam          7   2     0     0  (noun) a city in northeastern Germany
+potshot          7   2     0     0  (noun) a shot taken at an easy or casual target (as by a pothunter)
+poulenc          7   2     0     0  (noun) French pianist and composer (1899-1963)
+pounder          7   2     0     0  (noun) a heavy tool of stone or iron (usually with a flat base and a handle) that is used to gr
+pounding         8   2     0     1  (noun) the act of pounding (delivering repeated heavy blows)
+poussin          7   2     0     0  (noun) French painter in the classical style (1594-1665)
+pouter           6   2     0     0  (noun) one of a breed of pigeon that enlarge their crop until their breast is puffed out
+powell           6   2     0     0  (noun) English physicist who discovered the pion (the first known meson) which is a subatomic p
+pratfall         8   2     0     0  (noun) an embarrassing mistake
+predation        9   3     0     0  (noun) the act of preying by a predator who kills and eats the prey
+prelims          7   2     0     0  (noun) written matter preceding the main text of a book
+prepuce          7   2     0     0  (noun) a fold of skin covering the tip of the penis
+prescott         8   2     0     0  (noun) a town in central Arizona
+preserves        9   2     0     1  (noun) fruit preserved by cooking with sugar
+presley          7   2     0     0  (noun) United States rock singer whose many hit records and flamboyant style greatly influenced
+pressing         8   2     0     4  (noun) the act of pressing
+priam            5   2     0     0  (noun) (Greek mythology) the last king of Troy
+prick            5   1     0     1  (noun) the act of puncturing with a small point
+priestley        9   2     0     0  (noun) English chemist who isolated many gases and discovered oxygen (independently of Scheele)
+prima            5   2     0     1  (noun) used primarily as eating apples
+primate          7   2     0     1  (noun) any placental mammal of the order Primates
+primates         8   2     0     0  (noun) an animal order including lemurs and tarsiers and monkeys and apes and human beings
+priming          7   2     0     0  (noun) the act of making something ready
+princeton        9   2     0     0  (noun) a university in New Jersey
+printmaker      10   3     0     0  (noun) an artist who designs and makes prints
+privates         8   2     0     0  (noun) external sex organ
+privation        9   3     0     0  (noun) act of depriving someone of food or money or rights
+proceeds         8   2     0     1  (noun) the income or profit arising from such transactions as the sale of land or other propert
+prodding         8   2     0     0  (noun) a verbalization that encourages you to attempt something
+professing      10   3     0     0  (noun) an open avowal (true or false) of some belief or opinion
+prokofiev        9   3     0     0  (noun) Russian composer of ballets and symphonies and operas (1891-1953)
+prolactin        9   3     0     0  (noun) gonadotropic hormone secreted by the anterior pituitary
+promoter         8   3     0     2  (noun) someone who is an active supporter and advocate
+prophets         8   2     0     0  (noun) the second of three divisions of the Hebrew Scriptures
+propylene        9   3     0     0  (noun) a flammable gas obtained by cracking petroleum
+proration        9   3     0     0  (noun) the proportional limitation of production or distribution of something (e.g. crude oil o
+prosciutto      10   3     0     0  (noun) Italian salt-cured ham usually sliced paper thin
+prostitute      10   3     0     1  (noun) a woman who engages in sexual intercourse for money
+protease         8   3     0     0  (noun) any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and a
+proteome         8   3     0     0  (noun) the full complement of proteins produced by a particular genome
+protester        9   3     0     1  (noun) someone who participates in a public display of group feeling
+prothorax        9   3     0     0  (noun) the anterior part of an insect's thorax
+protropin        9   3     0     0  (noun) trade name of a synthetic human growth hormone given to children deficient in the hormon
+proust           6   1     0     0  (noun) French novelist (1871-1922)
+provence         8   2     0     0  (noun) a former province of southeastern France
+provera          7   3     0     0  (noun) a progestin compound (trade name Provera) used to treat menstrual disorders
+proviso          7   3     0     0  (noun) a stipulated condition
+provo            5   2     0     0  (noun) a city in north central Utah settled by Mormons
+prozac           6   2     0     0  (noun) a selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade
+pruner           6   2     0     0  (noun) a long-handled pruning saw with a curved blade at the end and sometimes a clipper
+prussian         8   2     0     0  (noun) a German inhabitant of Prussia
+psalms           6   1     0     0  (noun) an Old Testament book consisting of a collection of 150 Psalms
+psychotic        9   3     0     1  (noun) a person afflicted with psychosis
+publicist        9   3     0     1  (noun) someone who publicizes
+puccini          7   3     0     0  (noun) Italian operatic composer noted for the dramatic realism of his operas (1858-1924)
+puebla           6   2     0     0  (noun) a city in south central Mexico (southeast of Mexico City) on the edge of central Mexican
+puglia           6   3     0     0  (noun) a region in southeastern Italy on the Adriatic
+puking           6   2     0     0  (noun) the reflex act of ejecting the contents of the stomach through the mouth
+pullman          7   2     0     0  (noun) luxurious passenger car
+pulsing          7   2     0     0  (noun) (electronics) a sharp transient wave in the normal electrical state (or a series of such
+puncture         8   2     0     1  (noun) the act of puncturing or perforating
+pung             4   1     0     0  (noun) a one-horse sleigh consisting of a box on runners
+punks            5   1     0     0  (noun) a youth subculture closely associated with punk rock music in the late 1970s
+pupa             4   2     0     0  (noun) an insect in the inactive stage of development (when it is not feeding) intermediate bet
+purcell          7   2     0     0  (noun) English organist at Westminster Abbey and composer of many theatrical pieces (1659-1695)
+purchaser        9   3     0     1  (noun) a person who buys
+purim            5   2     0     0  (noun) (Judaism) a Jewish holy day commemorating their deliverance from massacre by Haman
+purist           6   2     0     0  (noun) someone who insists on great precision and correctness (especially in the use of words)
+purport          7   2     0     0  (noun) the pervading meaning or tenor
+pursued          7   2     0     1  (noun) a person who is being chased
+pus              3   1     0     2  (noun) a fluid product of inflammation
+pusan            5   2     0     0  (noun) a city in southeastern South Korea on the Korean Strait
+pusey            5   2     0     0  (noun) English theologian who (with John Henry Newman and John Keble) founded the Oxford moveme
+pusher           6   2     0     0  (noun) a small vehicle with four wheels in which a baby or child is pushed around
+pushkin          7   2     0     0  (noun) Russian poet (1799-1837)
+pushup           6   2     0     0  (noun) an arm exercise performed lying face to the floor and pushing the body up and down with 
+puss             4   1     0     1  (noun) informal terms referring to a domestic cat
+pussy            5   2     0     0  (noun) informal terms referring to a domestic cat
+pussycat         8   3     0     0  (noun) informal terms referring to a domestic cat
+putt             4   1     0     1  (noun) hitting a golf ball that is on the green using a putter
+putterer         8   3     0     0  (noun) a person who putters about
+puzzler          7   2     0     0  (noun) a particularly baffling problem that is said to have a correct solution
+pvc              3   3     0     0  (noun) irregularity of cardiac rhythm
+pygmalion        9   3     0     0  (noun) (Greek mythology) a king who created a statue of a woman and fell in love with it
+pygmy            5   2     0     4  (noun) any member of various peoples having an average height of less than five feet
+pyongyang        9   2     0     0  (noun) capital of North Korea and an industrial center
+
+275 words
